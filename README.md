@@ -4,8 +4,8 @@ A myriapod invertebrate with an elongated body composed of many segments, most o
 ![](https://media.giphy.com/media/4K3m3ZQ3nlbxRUb1Y9/giphy.gif)
 
 # bash script `millipede.sh`
-Run millipede.sh (the file must have execution permission)
-./millipede.sh
+
+`./millipede.sh`
 
 press `w` to run faster
 press `s` to run slower
