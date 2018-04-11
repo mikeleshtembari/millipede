@@ -5,7 +5,7 @@ A myriapod invertebrate with an elongated body composed of many segments, most o
 Run millipede.sh (the file must have execution permission)
 ./millipede.sh
 
-press `w` to run nfaster
+press `w` to run faster
 press `s` to run slower
 press `d` to make the snake expand more
 press `a` to make the snake expand less
