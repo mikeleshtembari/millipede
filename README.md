@@ -1,6 +1,8 @@
 # millipede
 A myriapod invertebrate with an elongated body composed of many segments, most of which bear two pairs of legs. Most kinds are herbivorous and shun light, living in the soil or under stones and logs.
 
+![](https://media.giphy.com/media/4K3m3ZQ3nlbxRUb1Y9/giphy.gif)
+
 # bash script `millipede.sh`
 Run millipede.sh (the file must have execution permission)
 ./millipede.sh
